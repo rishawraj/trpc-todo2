@@ -1,0 +1,3 @@
+await fetch("hh");
+
+export {};
